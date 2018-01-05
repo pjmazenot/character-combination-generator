@@ -103,7 +103,7 @@ for($i = 0 ; $i < 10 ; $i++) {
 * Add documentation
 * Add README
 
-2018-11-18
+2017-11-18
 * Create the main script
 * Support callback function to process each combination
 * Support manual generation
